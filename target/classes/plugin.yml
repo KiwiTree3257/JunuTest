@@ -1,0 +1,4 @@
+name: JunuTest
+version: '1.0-SNAPSHOT'
+main: plugin.junutest.JunuTest
+api-version: '1.21'
