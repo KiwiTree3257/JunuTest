@@ -8,7 +8,7 @@ public final class JunuTest extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        Bukkit.getLogger().info();
+        Bukkit.getLogger().info("ckstmfdlajtwoddl");
     }
 
     @Override
