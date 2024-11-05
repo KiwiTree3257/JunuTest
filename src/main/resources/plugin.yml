@@ -1,0 +1,4 @@
+name: JunuTest
+version: '${project.version}'
+main: plugin.junutest.JunuTest
+api-version: '1.21'
